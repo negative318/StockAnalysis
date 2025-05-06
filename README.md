@@ -4,7 +4,9 @@
 ## Acknowledgement
 dictionary.txt is from [undertheseanlp/dictionary](https://github.com/undertheseanlp/dictionary)
 
-data:
+## data:
+
 stock history: Trading View, thank to [vnstock](https://github.com/thinh-vu/vnstock.git)
+
 stock news: [Fireant](https://fireant.vn/)
 
