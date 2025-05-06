@@ -1,0 +1,11 @@
+__pycache__/
+temp.py
+daily_roberta.csv
+daily_phobert.csv
+daily_roberta.csv
+tfidf.json
+tfidf_train_test.json
+tfidf_train_test.joblib
+phobert.json
+phogpt_train_test.pkl
+tfidf_train_test.pkl

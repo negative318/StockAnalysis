@@ -1,0 +1,813 @@
+{
+    "symbol": "TIE",
+    "news": {
+        "2025-02-05": [
+            {
+                "date": "2025-02-05T09:36:00+07:00",
+                "title": "TIE: Báo cáo quản trị công ty năm 2024",
+                "description": "Báo cáo quản trị công ty năm 2024",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-12-03": [
+            {
+                "date": "2024-12-03T15:32:00+07:00",
+                "title": "TIE: Nghị quyết HĐQT v/v lựa chọn đơn vị kiểm toán BCTC năm 2024",
+                "description": "Nghị quyết HĐQT v/v lựa chọn đơn vị kiểm toán BCTC năm 2024",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2024-12-03T15:33:00+07:00",
+                "title": "TIE: CBTT về việc đơn vị đã ký Hợp đồng kiểm toán BCTC năm 2024",
+                "description": "CBTT về việc đơn vị đã ký Hợp đồng kiểm toán BCTC năm 2024",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-09-04": [
+            {
+                "date": "2024-09-04T15:58:00+07:00",
+                "title": "TIE: Quyết định về việc đưa ra khỏi diện cảnh báo đối với cổ phiếu TIE",
+                "description": "Quyết định về việc đưa ra khỏi diện cảnh báo đối với cổ phiếu TIE",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2024-09-04T15:58:00+07:00",
+                "title": "TIE: Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "description": "Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-08-22": [
+            {
+                "date": "2024-08-22T18:09:00+07:00",
+                "title": "TIE: Nghị quyết Đại hội đồng cổ đông thường niên năm 2024",
+                "description": "Nghị quyết Đại hội đồng cổ đông thường niên năm 2024",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-07-31": [
+            {
+                "date": "2024-07-31T08:58:00+07:00",
+                "title": "TIE: Báo cáo quản trị công ty bán niên 2024",
+                "description": "Báo cáo quản trị công ty bán niên 2024",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2024-07-31T08:54:00+07:00",
+                "title": "TIE: Tài liệu họp Đại hội đồng cổ đông",
+                "description": "Tài liệu họp Đại hội đồng cổ đông",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-07-10": [
+            {
+                "date": "2024-07-10T14:20:00+07:00",
+                "title": "TIE: Quyết định về việc đưa vào diện cảnh báo đối với cổ phiếu TIE",
+                "description": "Quyết định về việc đưa vào diện cảnh báo đối với cổ phiếu TIE",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2024-07-10T14:20:00+07:00",
+                "title": "TIE: Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "description": "Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-07-01": [
+            {
+                "date": "2024-07-01T10:14:00+07:00",
+                "title": "TIE: Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2024",
+                "description": "Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2024",
+                "content": "Thông báo ngày đăng ký cuối cùng lập danh sách cổ đông đối với cổ phiếu TIE của CTCP TIE như sau:<br>1. Ngày đăng ký cuối cùng: 22/07/2024<br>2. Ngày giao dịch không hưởng quyền: 19/07/2024<br>3. Lý do và mục đích: <br>     * Đại hội đồng cổ đông thường niên năm 2024<br>          - Tỷ lệ phân bổ quyền: 1:1 (1 cổ phiếu - 1 quyền biểu quyết)<br>          - Thời gian họp: dự kiến vào ngày 21/08/2024<br>          - Địa điểm tổ chức họp: Công ty sẽ thông báo cụ thể trong Thư mời họp ĐHĐCĐ thường niên năm 2024.<br>          - Nội dung họp: Công ty sẽ thông báo cụ thể trong Thư mời họp ĐHĐCĐ thường niên năm 2024.",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-04-19": [
+            {
+                "date": "2024-04-19T18:34:00+07:00",
+                "title": "TIE: Báo cáo thường niên 2023",
+                "description": "Báo cáo thường niên 2023",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-04-17": [
+            {
+                "date": "2024-04-17T19:01:00+07:00",
+                "title": "TIE: Nghị quyết Hội đồng quản trị",
+                "description": "Nghị quyết Hội đồng quản trị",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2024-01-31": [
+            {
+                "date": "2024-01-31T18:18:00+07:00",
+                "title": "TIE: Báo cáo quản trị công ty năm 2023",
+                "description": "Báo cáo quản trị công ty năm 2023",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2024-01-31T18:18:00+07:00",
+                "title": "TIE: Báo cáo sở hữu của cổ đông lớn - Lê Thị Thu Hà",
+                "description": "Báo cáo sở hữu của cổ đông lớn - Lê Thị Thu Hà",
+                "content": "- Tên cá nhân thực hiện giao dịch: Lê Thị Thu Hà <br>- Mã chứng khoán: TIE<br>- Số lượng cổ phiếu nắm giữ trước khi trở thành cổ đông lớn: 466.900 CP (tỷ lệ 4,88%) <br>- Số lượng cổ phiếu đã mua: 71.600 CP <br>- Số lượng cổ phiếu nắm giữ sau khi thực hiện giao dịch: 538.500 CP <br>- Tỷ lệ cổ phiếu nắm giữ sau khi thực hiện giao dịch: 5,63% <br>- Ngày trở thành cổ đông lớn: 25/01/2024.",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-12-11": [
+            {
+                "date": "2023-12-11T16:33:00+07:00",
+                "title": "TIE: Ký hợp đồng kiểm toán báo cáo tài chính năm 2023",
+                "description": "Ký hợp đồng kiểm toán báo cáo tài chính năm 2023",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-12-08": [
+            {
+                "date": "2023-12-08T09:30:00+07:00",
+                "title": "TIE: Thay đổi giấy đăng ký kinh doanh",
+                "description": "Thay đổi giấy đăng ký kinh doanh",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-11-16": [
+            {
+                "date": "2023-11-16T14:43:00+07:00",
+                "title": "TIE: Nghị quyết đại hội đồng cổ đông thông qua bằng hình thức lấy ý kiến cổ đông bằng văn bản",
+                "description": "Nghị quyết đại hội đồng cổ đông thông qua bằng hình thức lấy ý kiến cổ đông bằng văn bản",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-10-23": [
+            {
+                "date": "2023-10-23T11:23:00+07:00",
+                "title": "TIE: Tài liệu họp Đại hội đồng cổ đông",
+                "description": "Tài liệu họp Đại hội đồng cổ đông",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-10-06": [
+            {
+                "date": "2023-10-06T16:34:00+07:00",
+                "title": "TIE: Ngày đăng ký cuối cùng lấy ý kiến cổ đông bằng văn bản",
+                "description": "Ngày đăng ký cuối cùng lấy ý kiến cổ đông bằng văn bản",
+                "content": "Thông báo ngày đăng ký cuối cùng lập danh sách cổ đông đối với cổ phiếu TIE của CTCP TIE như sau:<br>1. Ngày đăng ký cuối cùng: 16/10/2023<br>2. Ngày giao dịch không hưởng quyền: 13/10/2023<br>3. Lý do và mục đích: <br>     * Lấy ý kiến cổ đông bằng văn bản: <br>          - Tỷ lệ phân bổ quyền: 1:1 (1 cổ phiếu – 1 quyền biểu quyết)<br>          - Nội dung xin ý kiến: Các vấn đề thuộc thẩm quyền Đại hội đồng cổ đông công ty dưới hình thức biểu quyết lấy ý kiến cổ đông bằng văn bản theo quy định pháp luật và Điều lệ của công ty<br>          - Thời gian thực hiện: TCPH thông báo sau<br>          - Địa điểm thực hiện: Văn phòng CTCP TIE, 262A Nam Kỳ Khởi Nghĩa, phường Võ Thị Sáu, Quận 3, TP Hồ Chí Minh",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-10-05": [
+            {
+                "date": "2023-10-05T16:49:00+07:00",
+                "title": "TIE: Đính chính nghị quyết HĐQT về việc thông qua chủ trương lấy ý kiến cổ đông bằng văn bản",
+                "description": "Đính chính nghị quyết HĐQT về việc thông qua chủ trương lấy ý kiến cổ đông bằng văn bản",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-09-28": [
+            {
+                "date": "2023-09-28T08:41:00+07:00",
+                "title": "TIE: THÔNG BÁO VỀ NGÀY ĐĂNG KÝ CUỐI CÙNG ĐỂ THỰC HIỆN QUYỀN LẤY Ý KIẾN CỔ ĐÔNG BẰNG VĂN BẢN",
+                "description": "THÔNG BÁO VỀ NGÀY ĐĂNG KÝ CUỐI CÙNG ĐỂ THỰC HIỆN QUYỀN LẤY Ý KIẾN CỔ ĐÔNG BẰNG VĂN BẢN",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-28T08:41:00+07:00",
+                "title": "TIE: Nghị quyết Hội đồng quản trị",
+                "description": "Nghị quyết Hội đồng quản trị",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-08-15": [
+            {
+                "date": "2023-08-15T15:17:00+07:00",
+                "title": "TIE: Quyết định về việc đưa ra khỏi diện cảnh báo đối với cổ phiếu TIE",
+                "description": "Quyết định về việc đưa ra khỏi diện cảnh báo đối với cổ phiếu TIE",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2023-08-15T15:17:00+07:00",
+                "title": "TIE: Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "description": "Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-07-12": [
+            {
+                "date": "2023-07-12T10:06:00+07:00",
+                "title": "TIE: Quyết định về việc đưa vào diện cảnh báo đối với cổ phiếu TIE",
+                "description": "Quyết định về việc đưa vào diện cảnh báo đối với cổ phiếu TIE",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2023-07-12T10:06:00+07:00",
+                "title": "TIE: Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "description": "Thông báo về trạng thái chứng khoán của cổ phiếu TIE trên hệ thống giao dịch UPCoM",
+                "content": "",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-06-16": [
+            {
+                "date": "2023-06-16T17:06:00+07:00",
+                "title": "TIE: Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2023",
+                "description": "Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2023",
+                "content": "Thông báo ngày đăng ký cuối cùng lập danh sách cổ đông đối với cổ phiếu TIE của CTCP TIE như sau:<br>1. Ngày đăng ký cuối cùng: 06/07/2023<br>2. Ngày giao dịch không hưởng quyền: 05/07/2023<br>3. Lý do và mục đích: <br>     * Đại hội đồng cổ đông thường niên năm 2023<br>          - Tỷ lệ phân bổ quyền: 1:1 (1 cổ phiếu – 1 quyền biểu quyết)<br>          - Thời gian họp: Dự kiến ngày 03/08/2023 (Thứ Năm)<br>          - Địa điểm tổ chức họp: TCPH sẽ thông báo cụ thể trong thư mời họp ĐHĐCĐ<br>          - Nội dung họp: TCPH sẽ thông báo cụ thể trong thư mời họp ĐHĐCĐ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-06-13": [
+            {
+                "date": "2023-06-13T14:11:00+07:00",
+                "title": "TIE: Nghị quyết Hội đồng quản trị",
+                "description": "Nghị quyết Hội đồng quản trị",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-04-01": [
+            {
+                "date": "2023-04-01T14:52:00+07:00",
+                "title": "TIE: Báo cáo tài chính năm 2022 (Công ty mẹ)",
+                "description": "Báo cáo tài chính năm 2022 (Công ty mẹ)",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2023-04-01T14:50:00+07:00",
+                "title": "TIE: Báo cáo tài chính năm 2022",
+                "description": "Báo cáo tài chính năm 2022",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-02-16": [
+            {
+                "date": "2023-02-16T09:51:00+07:00",
+                "title": "TIE: Quyết định đình chỉ xét xử phúc thẩm vụ án tranh chấp hợp đồng mua bán hàng hóa với Công ty TNHH MTV In Thành Nghĩa TP. Hồ Chí Minh",
+                "description": "Quyết định đình chỉ xét xử phúc thẩm vụ án tranh chấp hợp đồng mua bán hàng hóa với Công ty TNHH MTV In Thành Nghĩa TP. Hồ Chí Minh",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-02-15": [
+            {
+                "date": "2023-02-15T17:06:00+07:00",
+                "title": "TIE: Thay đổi nhân sự",
+                "description": "Thay đổi nhân sự",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-01-18": [
+            {
+                "date": "2023-01-18T15:36:00+07:00",
+                "title": "TIE: Báo cáo quản trị công ty năm 2022",
+                "description": "Báo cáo quản trị công ty năm 2022",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2023-01-14": [
+            {
+                "date": "2023-01-14T09:15:00+07:00",
+                "title": "Vụ sai phạm tại Tổng công ty Công nghiệp Sài Gòn: Mua cổ phiếu TIE để thâu tóm đất có vị trí 'đắc địa'?",
+                "description": "Bị can Chu Tiến Dũng và đồng phạm đã có hành vi vi phạm quy định quản lý, sử dụng tài sản nhà nước trong việc quản lý, sử dụng quỹ khen thưởng CNS để phục vụ công tác đối ngoại, tri ân, cảm ơn trong dịp lễ tết, hoặc đột xuất, gây thất thoát hơn 17,3 tỉ đồng...",
+                "content": "<p><strong>Bị can Chu Tiến Dũng và đồng phạm đã có hành vi vi phạm quy định quản lý, sử dụng tài sản nhà nước trong việc quản lý, sử dụng quỹ khen thưởng CNS để phục vụ công tác đối ngoại, tri ân, cảm ơn trong dịp lễ tết, hoặc đột xuất, gây thất thoát hơn 17,3 tỉ đồng...</strong></p>\r\n\r\n<p><img src=\"https://static.fireant.vn/Upload/20230114/images/image(20).png\" style=\"height:354px; width:550px\"></p>\r\n\r\n<p>Ngày 12.1, Cơ quan An ninh điều tra (ANĐT) Bộ Công an ban hành kết luận điều tra (KLĐT) bổ sung, đề nghị Viện KSND tối cao truy tố bị can Chu Tiến Dũng (cựu Tổng giám đốc Tổng công ty Công nghiệp Sài Gòn - TNHH MTV, gọi tắt CNS) và 9 đồng phạm cùng về tội “vi phạm quy định về quản lý, sử dụng tài sản nhà nước gây thất thoát, lãng phí” xảy ra tại CNS, Công ty CP <a class='symbol'>TIE</a> (công ty con của CNS, gọi tắt <a class='symbol'>TIE</a>).</p>\r\n\r\n<p>CNS là doanh nghiệp 100% vốn nhà nước, hoạt động theo mô hình công ty mẹ - con. Trong đó, CNS chiếm 70% vốn điều lệ của <a class='symbol'>TIE</a>.</p>\r\n\r\n<p>Theo KLĐT ban đầu, tháng 9.2022, bị can Chu Tiến Dũng và đồng phạm đã có hành vi vi phạm quy định quản lý, sử dụng tài sản nhà nước trong việc quản lý, sử dụng quỹ khen thưởng CNS để phục vụ công tác đối ngoại, tri ân, cảm ơn trong dịp lễ tết, hoặc đột xuất, gây thất thoát hơn 17,3 tỉ đồng; thực hiện thoái vốn đầu tư của CNS tại <a class='symbol'>TIE</a> trái quy định, gây thất thoát hơn 4,6 tỉ đồng.</p>\r\n\r\n<p>Tháng 11.2022, Viện KSND tối cao trả hồ sơ điều tra bổ sung, yêu cầu Cơ quan ANĐT điều tra bổ sung 6 vấn đề. Trong đó, Viện KSND tối cao yêu cầu làm rõ bản chất của việc sử dụng quỹ khen thưởng trái quy định tại CNS, chi cho ai, thuộc cơ quan nào; làm rõ có hay không bà Huỳnh Thị Kim Trâm, Huỳnh Thị Minh Thư, Đỗ Thị Kim Oanh (đại diện Công ty CP quản lý và dịch vụ An Khánh), ông Đỗ Kim Lợi (đại diện Công ty CP Sài Gòn Hưng Phú) thực hiện mua cổ phiếu của <a class='symbol'>TIE</a> để thâu tóm công ty này. Từ đó, nắm quyền kiểm soát <a class='symbol'>TIE</a> để khai thác, sử dụng những khu đất có vị trí đắc địa mà <a class='symbol'>TIE</a> đang quản lý…</p>\r\n\r\n<p>KLĐT bổ sung thể hiện, từ tài liệu, chứng cứ đã thu thập và lời khai của các bị can, người liên quan, cho thấy các bị can đã sử dụng quỹ khen thưởng của CNS để chi cho cá nhân, đơn vị bên ngoài trái với quy định, vì mục đích đối ngoại, tri ân, cảm ơn nhằm duy trì mối quan hệ công tác. Do CNS không lưu trữ thông tin, tài liệu về người nhận tiền và người nhận nếu có cũng không ký xác nhận nên Cơ quan ANĐT không có cơ sở điều tra, xác minh tại một số cơ quan, đơn vị thuộc cơ quan Đảng, UBND, sở, ngành của TP.HCM để xác định, kết luận đối tượng được nhận tiền từ quỹ khen thưởng của CNS là ai.</p>\r\n\r\n<p>Riêng mục đích mua cổ phiếu <a class='symbol'>TIE</a> của 4 cá nhân gồm: Huỳnh Thị Kim Trâm, Huỳnh Thị Minh Thư, Đỗ Thị Kim Oanh, Đỗ Kim Lợi, KLĐT bổ sung nêu, căn cứ kết quả điều tra, cho thấy việc mua cổ phiếu <a class='symbol'>TIE</a> của 4 cá nhân này là đúng trình tự, thủ tục, mục đích là đầu tư, kinh doanh kiếm lời; không có cơ sở xác định việc móc nối, bàn bạc, thỏa thuận giữa các cá nhân này với các bị can, cá nhân tại CNS và <a class='symbol'>TIE</a> trong việc chuyển nhượng cổ phiếu <a class='symbol'>TIE</a>.</p>\r\n\r\n<p>Đối với các yêu cầu điều tra bổ sung còn lại, Cơ quan ANĐT khẳng định đã được làm rõ trong quá trình điều tra và thể hiện tại bản KLĐT ban đầu.</p>\r\n\r\n<p><a href=\"https://thanhnien.vn/vu-sai-pham-tai-tong-cong-ty-cong-nghiep-sai-gon-mua-co-phieu-tie-de-thau-tom-dat-co-vi-tri-dac-dia-post1541589.html\"><strong>Phan Thương </strong></a></p>\r\n",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": 2.6,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.5,
+                        "percentChangeSince": 19.23076923076923
+                    }
+                ]
+            }
+        ],
+        "2022-12-29": [
+            {
+                "date": "2022-12-29T14:58:00+07:00",
+                "title": "TIE: Ký hợp đồng kiểm toán Báo cáo tài chính năm 2022",
+                "description": "Ký hợp đồng kiểm toán Báo cáo tài chính năm 2022",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-12-15": [
+            {
+                "date": "2022-12-15T16:57:00+07:00",
+                "title": "TIE: Nghị quyết Hội đồng quản trị",
+                "description": "Nghị quyết Hội đồng quản trị",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-10-14": [
+            {
+                "date": "2022-10-14T18:43:00+07:00",
+                "title": "TIE: Bản án của Tòa án Nhân dân Quận 11 TP. Hô Chí Minh về tranh chấp Hợp đồng mua bán hàng hóa",
+                "description": "Bản án của Tòa án Nhân dân Quận 11 TP. Hô Chí Minh về tranh chấp Hợp đồng mua bán hàng hóa",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-08-04": [
+            {
+                "date": "2022-08-04T10:06:00+07:00",
+                "title": "TIE: Báo cáo quản trị công ty bán niên 2022",
+                "description": "Báo cáo quản trị công ty bán niên 2022",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-07-13": [
+            {
+                "date": "2022-07-13T10:47:00+07:00",
+                "title": "TIE: Bản án của Tòa án nhân dân Quận 6 về việc tranh chấp hợp đồng mua bán hàng hóa",
+                "description": "Bản án của Tòa án nhân dân Quận 6 về việc tranh chấp hợp đồng mua bán hàng hóa",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-04-18": [
+            {
+                "date": "2022-04-18T19:07:00+07:00",
+                "title": "TIE: Báo cáo thường niên 2021",
+                "description": "Báo cáo thường niên 2021",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-03-31": [
+            {
+                "date": "2022-03-31T20:27:00+07:00",
+                "title": "TIE: Báo cáo tài chính năm 2021",
+                "description": "Báo cáo tài chính năm 2021",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            },
+            {
+                "date": "2022-03-31T12:19:00+07:00",
+                "title": "TIE: Báo cáo tài chính năm 2021 (Công ty mẹ)",
+                "description": "Báo cáo tài chính năm 2021 (Công ty mẹ)",
+                "content": " ",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-03-25": [
+            {
+                "date": "2022-03-25T08:11:00+07:00",
+                "title": "TIE: Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2022",
+                "description": "Ngày đăng ký cuối cùng Đại hội đồng cổ đông thường niên năm 2022",
+                "content": "Thông báo ngày đăng ký cuối cùng lập danh sách cổ đông đối với cổ phiếu TIE của CTCP TIE như sau:<br>1. Ngày đăng ký cuối cùng: 04/04/2022<br>2. Ngày giao dịch không hưởng quyền: 01/04/2022<br>3. Lý do và mục đích: <br>     * Đại hội đồng cổ đông thường niên năm 2022<br>          - Tỷ lệ phân bổ quyền: 1:1 (1 cổ phiếu – 1 quyền biểu quyết)<br>          - Thời gian họp: dự kiến ngày 28/04/2022 (Thứ Năm)<br>          - Địa điểm tổ chức họp: TCPH sẽ thông báo cụ thể trong thư mời họp ĐHĐCĐ<br>          - Nội dung họp: TCPH sẽ thông báo cụ thể trong thư mời họp ĐHĐCĐ.",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2022-03-15": [
+            {
+                "date": "2022-03-15T11:52:00+07:00",
+                "title": "TIE: Thông báo ngày đăng ký cuối cùng dự kiến để thực hiện quyền tham dự Đại hội đồng cổ đông thường niên 2022",
+                "description": "Thông báo ngày đăng ký cuối cùng dự kiến để thực hiện quyền tham dự Đại hội đồng cổ đông thường niên 2022",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ],
+        "2021-12-15": [
+            {
+                "date": "2021-12-15T10:33:00+07:00",
+                "title": "TIE: Nghị quyết Hội đồng quản trị",
+                "description": "Nghị quyết Hội đồng quản trị",
+                "content": ".",
+                "taggedSymbols": [
+                    {
+                        "symbol": "TIE",
+                        "price": null,
+                        "change": -0.5,
+                        "percentChange": -13.88888888888889,
+                        "changeSince": 0.0,
+                        "percentChangeSince": 0.0
+                    }
+                ]
+            }
+        ]
+    }
+}
